@@ -1,11 +1,11 @@
 {
-	"name": "@imooc-cli-dev/utils",
+	"name": "@imook-cli-dev/utils",
 	"version": "1.0.0",
 	"description": "> TODO: description",
 	"author": "wuchangxing <wuchangxing@baijiahulian.com>",
 	"homepage": "",
 	"license": "ISC",
-	"main": "lib/utils.js",
+	"main": "lib/index.js",
 	"directories": {
 		"lib": "lib",
 		"test": "__tests__"
