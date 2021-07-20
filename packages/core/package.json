@@ -1,6 +1,6 @@
 {
 	"name": "@imook-cli-dev/core",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "> TODO: description",
 	"author": "wuchangxing <wuchangxing@baijiahulian.com>",
 	"homepage": "",
@@ -14,6 +14,6 @@
 		"lib"
 	],
 	"dependencies": {
-		"@imook-cli-dev/utils": "^1.0.0"
+		"@imook-cli-dev/utils": "^1.0.1"
 	}
 }

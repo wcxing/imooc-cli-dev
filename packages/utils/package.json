@@ -1,6 +1,6 @@
 {
 	"name": "@imook-cli-dev/utils",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "> TODO: description",
 	"author": "wuchangxing <wuchangxing@baijiahulian.com>",
 	"homepage": "",
@@ -12,7 +12,5 @@
 	},
 	"files": [
 		"lib"
-	],
-	"dependencies": {
-	}
+	]
 }
